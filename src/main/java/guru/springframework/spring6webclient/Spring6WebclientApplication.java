@@ -1,4 +1,4 @@
-package guru.springframework.spring_6_webclient;
+package guru.springframework.spring6webclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

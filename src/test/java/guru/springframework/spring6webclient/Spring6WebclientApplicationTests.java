@@ -1,4 +1,4 @@
-package guru.springframework.spring_6_webclient;
+package guru.springframework.spring6webclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
